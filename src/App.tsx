@@ -1,5 +1,4 @@
 import { Paper, Container, styled, Grid, Button } from '@mui/material';
-import { height, padding, textAlign, width } from '@mui/system';
 import React, { useState } from 'react'
 import { GridDigitButton } from './GridDigitButton';
 import { GridOperationButton } from './GridOperationButton';
