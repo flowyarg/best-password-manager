@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/best-password-manager/static/js/main.b8c6a146.js",
+    "index.html": "/best-password-manager/index.html",
+    "main.b8c6a146.js.map": "/best-password-manager/static/js/main.b8c6a146.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b8c6a146.js"
+  ]
+}
