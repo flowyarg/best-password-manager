@@ -12,7 +12,8 @@ jobs:
   deploy-main:
     environment:
       name: github-pages
-      url: ${{ steps.build-publish.outputs.page_url }}
+      #url: ${{ steps.build-publish.outputs.page_url }}
+      url: https://graywolf13.github.io/best-password-manager/
     runs-on: ubuntu-latest
     steps:
     - id: build-publish
