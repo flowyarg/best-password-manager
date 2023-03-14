@@ -15,7 +15,7 @@ const StyledButton = styled(Button)<{selected: boolean}>((props) =>({
 
 export const GridOperationButton: React.FC<GridOperationButtonProps> = ({
     operation,
-    selectOperation: selectOperation,
+    selectOperation,
     selectedOperation,
 }) => {
     return (
